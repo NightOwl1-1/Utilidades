@@ -10,7 +10,7 @@ A vida moderna é repleta de tarefas e responsabilidades que podem ser otimizada
 
 Recursos Disponíveis:
 
-Automatização de Navegação Web: Scripts para abrir sites frequentemente visitados automaticamente, economizando seu tempo na busca por informações online.
+Automatização de Navegação Web: Scripts para abrir sites frequentemente visitados automaticamente, economizando seu tempo na busca por informações online, você pode personalizar seus sites favoritos e incluir programas para abrir automaticamente com apenas um clique!
 
 Lembretes de Exercício Físico: Não se esqueça de manter uma vida saudável! Configure lembretes automáticos para se exercitar regularmente.
 
