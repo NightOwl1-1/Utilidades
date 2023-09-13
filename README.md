@@ -10,9 +10,9 @@ A vida moderna é repleta de tarefas e responsabilidades que podem ser otimizada
 
 Recursos Disponíveis:
 
-Automatização de Navegação Web: Scripts para abrir sites frequentemente visitados automaticamente, economizando seu tempo na busca por informações online, você pode personalizar seus sites favoritos e incluir programas para abrir automaticamente com apenas um clique!
+Automatização de Navegação Web: Scripts para abrir sites frequentemente visitados automaticamente, economizando seu tempo na busca por informações online. Você pode personalizar seus sites favoritos e incluir programas para abrir automaticamente com apenas um clique!
 
-Lembretes de Exercício Físico: Não se esqueça de manter uma vida saudável! Configure lembretes automáticos para se exercitar regularmente.
+Lembretes de Exercício Físico: Não se esqueça de manter uma vida saudável! Temos um programa que oferece lembretes regulares para se exercitar, ajudando você a manter uma rotina ativa. Além disso, o programa atualiza aleatoriamente uma série de exercícios e alongamentos a cada meia hora, para manter sua atividade física variada e eficaz.
 
 Simplifique sua vida e economize tempo com nossas soluções de automação Python. Explore, compartilhe e aproveite ao máximo cada dia.
 
