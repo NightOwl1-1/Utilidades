@@ -19,7 +19,6 @@ exercicios = [
     "Corrida no Lugar",
 ]
 
-# Lista de séries e repetições
 series = [2, 3, 4, 5]
 repeticoes = [5, 10, 15, 20]
 
@@ -48,7 +47,6 @@ def mostrar_escolhas():
     label_alongamento.config(text=f"Faça {serie} séries de {repeticao} repetições de {alongamento}", fg='blue')  # Mudança de cor
     label_exercicio.config(text=f"Faça {serie} séries de {repeticao} repetições de {exercicio}", fg='blue')  # Mudança de cor
 
-    # Contador regressivo de meia hora (1800 segundos)
     contador = 1800
     def atualizar_contador():
         nonlocal contador
@@ -60,10 +58,10 @@ def mostrar_escolhas():
             janela.after(1000, atualizar_contador)
         else:
             label_contador.config(text="")
-            mostrar_escolhas()  # Iniciar a próxima atualização
+            mostrar_escolhas()  
 
     label_contador.config(text=f"Próxima atualização em 30 minutos", fg='red')
-    janela.after(1000, atualizar_contador)  # Iniciar o contador
+    janela.after(1000, atualizar_contador)  
 
 janela = tk.Tk()
 janela.title("Exercícios e Alongamentos Aleatórios")
@@ -80,6 +78,6 @@ label_contador.pack(padx=20, pady=5)
 botao_fechar = tk.Button(janela, text="Fechar", command=janela.quit)
 botao_fechar.pack()
 
-mostrar_escolhas()  # Iniciar a primeira atualização
+mostrar_escolhas()  
 
 janela.mainloop()
